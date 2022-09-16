@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TBC_Course_24</string>
+    <string name="name">Name</string>
+    <string name="titlesub">titleSub</string>
+    <string name="what_is_it">What is It?</string>
+    <string name="play">Play</string>
+    <string name="textview">TextView</string>
+    <string name="course">Course</string>
+    <string name="sample">sample</string>
+    <string name="main">main</string>
+    <string name="sample2">sample2</string>
+    <string name="title">title</string>
+    <string name="price">price</string>
+    <string name="succ">Successfully added to cart</string>
+    <string name="internet">Check Internet Connection</string>
+</resources>
